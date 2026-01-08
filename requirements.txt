@@ -1,0 +1,6 @@
+pandas
+gnews
+python-dotenv
+sqlalchemy
+psycopg2-binary
+google-genai
