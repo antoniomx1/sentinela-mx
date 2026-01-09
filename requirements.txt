@@ -3,5 +3,5 @@ gnews
 python-dotenv
 sqlalchemy
 psycopg2-binary
-python-telegram-bot
+python-telegram-bot[webhooks]
 google-genai
