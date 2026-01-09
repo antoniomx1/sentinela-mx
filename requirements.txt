@@ -5,4 +5,3 @@ sqlalchemy
 psycopg2-binary
 python-telegram-bot
 google-genai
-google-generativeai
